@@ -1,0 +1,8 @@
+{"repo":"WT-Stay-Swiss-Garden-Website","name":"WT Stay – Swiss Garden Residences KL","wa":"601139681628",
+"title":"WT Stay – Swiss Garden Residences KL | Apartments in Bukit Bintang, Kuala Lumpur",
+"desc":"Short-stay apartments at Swiss Garden Residences, 2A Jalan Galloway, Bukit Bintang: a 4-minute walk to Jalan Alor. Pool, gym, sauna, free parking. Rated 4.9 on Google. WhatsApp +60 11-3968 1628.",
+"theme":"#2A1E17","ogAlt":"WT Stay – apartments at Swiss Garden Residences, Bukit Bintang, Kuala Lumpur",
+"fonts":[{"fam":"Bricolage Grotesque","w":"500 700","file":"bricolage.woff2"},{"fam":"Figtree","w":"400 600","file":"figtree.woff2"}],
+"preloadFonts":["bricolage.woff2","figtree.woff2"],
+"heroPreload":"    <link rel=\"preload\" as=\"image\" type=\"image/webp\" imagesrcset=\"./images/hero-m-480.webp 480w, ./images/hero-m-720.webp 720w\" imagesizes=\"100vw\" media=\"(max-width: 1023px)\" fetchpriority=\"high\" />\n    <link rel=\"preload\" as=\"image\" type=\"image/webp\" href=\"./images/hero-1400.webp\" media=\"(min-width: 1024px)\" fetchpriority=\"high\" />",
+"fs":"Figtree","fd":"Bricolage Grotesque","c404bg":"#FBF6EE","c404fg":"#2A1E17","c404acc":"#B24621","c404onacc":"#fff"}
